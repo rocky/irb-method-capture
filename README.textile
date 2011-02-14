@@ -4,9 +4,10 @@ This code captures the methods, classes, and modules defined in irb and
 stores them with exactly the same style and indentation they were entered.
 
 Even comments are saved! Well, actually only provided they are
-*inside* the method or class instead of before it.
+_inside_ the method or class instead of before it.
 
-How to use
+How to use:
+
 bc.  console
   $ irb
   >> load 'irb-hack-tf.rb' # or irb-hack-no-tf.rb
