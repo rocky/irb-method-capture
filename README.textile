@@ -8,8 +8,7 @@ _inside_ the method or class instead of before it.
 
 How to use:
 
-bc.  console
-  $ irb
+bc.  $ irb
   >> load 'irb-hack-tf.rb' # or irb-hack-no-tf.rb
   >> # work, work, work... look at CLASSES, METHODS and MODULES
 
